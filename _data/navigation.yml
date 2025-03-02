@@ -1,0 +1,5 @@
+main:
+  - title: "正誤情報"
+    url: /errata
+  - title: "書籍情報"
+    url: /about
