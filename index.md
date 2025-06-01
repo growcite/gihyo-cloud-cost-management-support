@@ -37,7 +37,7 @@ toc_icon: "list"
   </tr>
   <tr>
     <td>ページ数</td>
-    <td></td>
+    <td>272ページ</td>
   </tr>
 </table>
 
